@@ -1,0 +1,322 @@
+@media(max-width:575px) {
+
+    .icon i {
+        color: #fff;
+    }
+
+    #mynav ul {
+        background: #333
+    }
+
+
+    #mynav ul li {
+        text-align: center;
+    }
+
+    .banner_content {
+        padding-top: 112px;
+    }
+
+    .banner_content h1 {
+        font-size: 30px;
+        max-width: 380px;
+        line-height: 35px;
+        margin-bottom: 5px;
+    }
+
+
+    .banner_content p {
+        max-width: 393px;
+        margin-bottom: 15px;
+    }
+
+    .banner_content .banner_button {
+        height: 36px;
+        width: 98px;
+        font-size: 14px;
+        line-height: 35px;
+        border: 2px solid #ddd;
+        display: block;
+        color: #fff;
+        text-align: center;
+        margin: -15px 0;
+    }
+
+
+
+    .introduction_item {
+        margin: 20px 0;
+    }
+
+    .intro_content a {
+        height: 57px;
+        width: 234px;
+        line-height: 57px;
+        margin-top: 30px;
+    }
+
+    .buttomxsnone {
+        display: none;
+    }
+
+    .buttomxsblock {
+        margin-top: 20px;
+    }
+
+    .card {
+
+        margin: auto
+    }
+
+    .cause_itemm {
+        font-family: 'Raleway', sans-serif;
+        margin: 30px 0;
+        text-align: center -webkit
+    }
+
+
+
+    .event_leftttt {
+        margin-left: 195px;
+        margin-top: -82px;
+    }
+
+    .member_overly h5 {
+        font-size: 24px;
+    }
+
+    .member_overly span {
+        font-size: 18px;
+
+    }
+
+    .member_overly i {
+        font-size: 22px;
+        margin: 15px 5px;
+
+    }
+
+    .member_image_overly h5 {
+        font-size: 24px;
+    }
+
+    .member_image_overly span {
+        font-size: 20px;
+
+    }
+
+    .member_image_overly i {
+        font-size: 45px;
+        margin: 10px 0px;
+
+    }
+
+    .team_right {
+
+        margin-left: 0px;
+
+    }
+
+    #partner .slick-dots {
+        display: none;
+    }
+
+    .contact_item {
+        text-align: left;
+    }
+
+    .contact_form {
+        margin-top: 0px;
+    }
+
+    .footer_part p {
+        font-size: 12px;
+    }
+
+    .footer_part i {
+        font-size: 14px;
+    }
+
+    .footer_part .col-lg-4 {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .footer_part .ggg {
+       margin: 0 0 0 -220px;
+       
+            
+    }
+
+
+
+}
+
+
+@media(min-width:576px) and (max-width:767px) {
+
+    .icon i {
+        color: #fff;
+    }
+
+    #mynav ul {
+        background: #333
+    }
+
+    #mynav ul li {
+        text-align: center;
+    }
+
+
+    .banner_content h1 {
+        font-size: 35px;
+        max-width: 300px;
+        line-height: 37px;
+        margin-bottom: 15px;
+    }
+
+    .banner_content p {
+        max-width: 380px;
+        margin-bottom: 6px;
+    }
+
+    .banner_content {
+        padding-top: 100px;
+    }
+
+    .banner_content .banner_button {
+        height: 34px;
+        width: 126px;
+        font-size: 15px;
+        line-height: 34px;
+
+    }
+
+    .banner_content .banner_buttonTow {
+        margin: 5px 0px;
+
+    }
+
+    .introduction_item {
+        margin: 20px 0;
+    }
+
+    .cause_itemm {
+        margin: 20px;
+    }
+
+    .card {
+        margin: 0 -65px;
+    }
+
+    .event_leftttt {
+        margin-left: 195px;
+        margin-top: -82px;
+    }
+
+    .contact_form {
+        margin-top: 0px;
+    }
+
+    .footer_part .col-lg-4 {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .footer_part .ggg {
+       margin: 0 0 0 -190px;
+       
+            
+    }
+
+
+}
+
+
+
+@media(min-width:768px) and (max-width:991px) {
+
+    .icon i {
+        color: #fff;
+    }
+
+    #mynav ul {
+        background: #333
+    }
+
+
+    #mynav ul li {
+        text-align: center;
+    }
+
+    .banner_content {
+        padding-top: 112px;
+    }
+
+    .banner_content h1 {
+        font-size: 30px;
+        max-width: 380px;
+        line-height: 35px;
+        margin-bottom: 5px;
+    }
+
+
+    .banner_content p {
+        max-width: 393px;
+        margin-bottom: 15px;
+    }
+
+    .banner_content .banner_button {
+        height: 36px;
+        width: 98px;
+        font-size: 14px;
+        line-height: 35px;
+        border: 2px solid #ddd;
+        display: block;
+        color: #fff;
+        text-align: center;
+        margin: -15px 0;
+    }
+
+    .event_leftttt {
+        margin-left: 195px;
+        margin-top: -82px;
+    }
+
+
+
+
+}
+
+@media(min-width:992px) and (max-width:1199) {
+
+    .banner_content {
+        padding-top: 112px;
+    }
+
+    .banner_content h1 {
+        font-size: 20px;
+        max-width: 400px;
+        line-height: 40px;
+        margin-bottom: 5px;
+    }
+
+
+    .banner_content p {
+        max-width: 393px;
+        margin-bottom: 15px;
+    }
+
+    .banner_content .banner_button {
+        height: 36px;
+        width: 98px;
+        font-size: 14px;
+        line-height: 35px;
+        border: 2px solid #ddd;
+        display: block;
+        color: #fff;
+        text-align: center;
+        margin: -15px 0;
+    }
+
+
+}
