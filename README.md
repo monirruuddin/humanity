@@ -23,4 +23,5 @@
 </ul>
 
 <h3>Full View</h3>
-<img src="https://moniruddin.com/all-project/all-screenshot/humanity.png" alt="Humanity" />
+http://moniruddin.com/all-project/Humanity%20Project/
+
